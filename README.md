@@ -4,4 +4,4 @@
 主要参考项目[MatPFF](https://github.com/PM-Hu/MatPFF)
 
 结果展示
-迭代第一步：[001](https://github.com/CleverFool1026/AT2_Model/blob/main/Result_image/001.png)
+迭代第一步：![001.png](https://github.com/CleverFool1026/AT2_Model/blob/main/Result_image/001.png)
